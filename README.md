@@ -20,5 +20,5 @@ Prerequisites
 Run
 -------------
 JUnit test file **com.cloud.sample.ApplicationTest** is the code snippet to upload file to Google Cloud Storage. 
- > **To run:**
-> mvn clean install
+ > **Compile & Run**
+> - mvn clean install
